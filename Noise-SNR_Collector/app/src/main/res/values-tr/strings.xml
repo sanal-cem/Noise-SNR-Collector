@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wifi Mobil internet seviyesi</string>
+    <string name="navigation_drawer_open">Navigasyon panelini aç</string>
+    <string name="navigation_drawer_close">Navigasyon panelini kapat</string>
+    <string name="graph_view">Grafiksel gösterim</string>
+    <string name="route_on_map">Rota ayarlama</string>
+    <string name="refresh">Yenile</string>
+    <string name="exit">Çıkış</string>
+    <string name="action_send">Veri gönder</string>
+    <string name="email">cemsanal@yandex.com</string>
+    <string name="title_activity_maps">Haritada göster</string>
+    <string name="graph_1">Hesaplanmış SNR</string>
+    <string name="graph_2">Hesaplanmış sinyal</string>
+    <string name="signalWifi">Wi-Fi sinyalini dinle</string>
+    <string name="signalMobile">Mobil veri sinyalini dinle</string>
+    <string name="eMobData">Mobil veriyi açınız</string>
+    <string name="eWifiData">Wireless bağlantıyı açınız</string>
+    <string name="definition_main">Sol taraftaki navigasyon butonuna tıklayınız. SNR ve sinyal değerlerinizi \'Grafiksel gösterim\' sayfasından görebilirsiniz. SNR değerlerinizi bulunduğunuz yere göre öğrenebilirsiniz. \'Rota ayarlama\' sayfasından rota seçebilirsiniz. \'Grafiksel gösterim\' sayfasındaki sağ üstteki \'Yenile\' butonundan veritabanımıza SNR verisi yollayabilirsiniz.</string>
+</resources>

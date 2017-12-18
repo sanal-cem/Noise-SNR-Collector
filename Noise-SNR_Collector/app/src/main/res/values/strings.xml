@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Wifi Mobile Signal Level Analyzer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="graph_view">Graph view</string>
+    <string name="route_on_map">Route on map</string>
+    <string name="refresh">Refresh</string>
+    <string name="exit">Exit</string>
+    <string name="action_send">Send data</string>
+    <string name="email">cemsanal@yandex.com</string>
+    <string name="title_activity_maps">Routes on the map</string>
+    <string name="definition_main">Press the navigation button from the top left. View your SNR and signal values from the \'Graph view\' page. Find out SNR values in your area. Select a route from the \'Route on map\' page. Send data to our database via \'refresh\' button which stands on the top right of the \'Graph View\' page.</string>
+    <string name="graph_1">"Calculated SNR"</string>
+    <string name="graph_2">"Calculated Signal"</string>
+    <string name="signalWifi">"Listen Wi-Fi Signal"</string>
+    <string name="signalMobile">"Listen Mobile Signal"</string>
+    <string name="eMobData">"Please enable mobile data"</string>
+    <string name="eWifiData">Please enable Wireless</string>
+    <!-- Test account -->
+    <!-- <string name="ban_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string> -->
+    <string name="ban_ad_unit_id" translatable="false">adMobKey</string>
+</resources>
